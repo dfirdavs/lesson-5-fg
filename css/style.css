@@ -1,0 +1,68 @@
+
+
+	
+  body{
+	 font-family: Lato, sans-serif;
+ }
+h1{
+	font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 46px;
+line-height: 130%;
+padding: 0px 550px 0px;
+margin-bottom: 25px;
+margin-top: -100px;
+
+}
+
+img{ 
+	padding: 0px  550px 0px;
+	margin-bottom: 25px;
+
+}
+h2{
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	padding: 0px 550px 0px ;
+	margin-bottom: 25px;
+	
+}
+p{
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+padding: 0px 550px 0px;
+margin-bottom: 25px;
+
+}
+h3{
+	font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+padding: 0px 550px 0px;
+margin-bottom: 25px;
+}
+
+ul{
+	padding: 0px 550px 0px; 
+   line-height: 30px;
+	margin-bottom: 25px;
+
+
+}
+.block{
+	padding: 0px 550px 0px;
+	margin-bottom: 25px;
+}
+.nav{
+	padding-left: 60px;
+   display: inline;
+}
